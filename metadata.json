@@ -1,0 +1,6 @@
+{
+  "name": "ShopEase",
+  "description": "A modern, clean E-commerce mini app featuring smooth transitions, categories, modular checkout, and order history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
